@@ -155,7 +155,10 @@ This project demonstrates several important React concepts:
 
 ## 📷 Screenshots
 
-Add screenshots of your website here.
+<img width="1885" height="1020" alt="Screenshot 2026-03-06 154723" src="https://github.com/user-attachments/assets/eca3be20-4d8d-45ea-9711-af7cb29bbaf5" />
+<img width="1894" height="953" alt="Screenshot 2026-03-06 154849" src="https://github.com/user-attachments/assets/3cd4cb38-cc0d-4b65-ad03-61aba033979a" />
+<img width="1884" height="1016" alt="Screenshot 2026-03-06 155012" src="https://github.com/user-attachments/assets/9aad9217-82d2-46a5-ab6b-121586fa8b48" />
+<img width="1896" height="1027" alt="Screenshot 2026-03-06 155039" src="https://github.com/user-attachments/assets/55de0890-6aaa-438d-a9ab-cc1111e97f3e" />
 
 Example:
 
