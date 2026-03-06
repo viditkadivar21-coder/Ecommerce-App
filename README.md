@@ -32,29 +32,31 @@ The application fetches products from an external API and allows users to intera
 ---
 
 ## 📂 Project Structure
+
 ecommerce-app
 │
 ├── public
-│ └── index.html
+│   └── index.html
+│
 ├── src
-│ ├── components
-│ │ ├── Navbar.js
-│ │ ├── Footer.js
-│ │ └── ProductCard.js
-│ │
-│ ├── pages
-│ │ ├── Home.js
-│ │ ├── ProductDetails.js
-│ │ ├── Cart.js
-│ │ ├── Login.js
-│ │ └── Checkout.js
-│ │
-│ ├── context
-│ │ └── CartContext.js
-│ │
-│ ├── App.js
-│ ├── App.css
-│ └── index.js
+│   ├── components
+│   │   ├── Navbar.js
+│   │   ├── Footer.js
+│   │   └── ProductCard.js
+│   │
+│   ├── pages
+│   │   ├── Home.js
+│   │   ├── ProductDetails.js
+│   │   ├── Cart.js
+│   │   ├── Login.js
+│   │   └── Checkout.js
+│   │
+│   ├── context
+│   │   └── CartContext.js
+│   │
+│   ├── App.js
+│   ├── App.css
+│   └── index.js
 │
 └── README.md
 
