@@ -36,7 +36,6 @@ ecommerce-app
 │
 ├── public
 │ └── index.html
-│
 ├── src
 │ ├── components
 │ │ ├── Navbar.js
