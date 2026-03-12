@@ -163,13 +163,11 @@ This project demonstrates important React concepts such as:
 
 # 📷 Screenshots
 
-Add screenshots of the following pages:
-
-* Home Page
-* Product Details Page
-* Cart Page
-* Checkout Page
-* Login Page
+<img width="1900" height="1086" alt="Screenshot 2026-03-13 033406" src="https://github.com/user-attachments/assets/de6a4595-864e-47b6-a2e3-8bbcc9a8f10b" />
+<img width="1885" height="1077" alt="Screenshot 2026-03-13 033438" src="https://github.com/user-attachments/assets/ac822531-da61-41fe-88cb-ded14c4eaefd" />
+<img width="1899" height="1079" alt="Screenshot 2026-03-13 040717" src="https://github.com/user-attachments/assets/f1554329-6629-4ef4-bcae-2e72672cfe43" />
+<img width="1878" height="1085" alt="Screenshot 2026-03-13 033546" src="https://github.com/user-attachments/assets/e5d6a020-2d89-436e-83d2-a63e4bdabac8" />
+<img width="1883" height="1076" alt="Screenshot 2026-03-13 033611" src="https://github.com/user-attachments/assets/f900936e-d356-4937-95c2-570abb055cf0" />
 
 ---
 
