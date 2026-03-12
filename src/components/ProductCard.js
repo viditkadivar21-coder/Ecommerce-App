@@ -15,13 +15,17 @@ function ProductCard({ product }) {
 
       <p>${product.price}</p>
 
-      <Link to={`/product/${product.id}`}>
-        <button>Details</button>
-      </Link>
+      <div className="card-buttons">
 
-      <button onClick={() => addToCart(product)}>
-        Add to Cart
-      </button>
+        <Link to={`/product/${product.id}`}>
+          <button>View</button>
+        </Link>
+
+        <button onClick={() => addToCart(product)}>
+          Add to Cart
+        </button>
+
+      </div>
 
     </div>
   );

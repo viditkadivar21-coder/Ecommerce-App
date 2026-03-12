@@ -16,6 +16,7 @@ function Footer() {
           <a href="/">Home</a>
           <a href="/cart">Cart</a>
           <a href="/login">Login</a>
+          <a href="/contact">Contact</a>
         </div>
 
         <div className="footer-section">
